@@ -1,5 +1,5 @@
 # Recipes
-Testing environment for shared component recipes
+Testing environment for shared component recipes :)
 
 ## Filter
 
